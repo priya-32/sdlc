@@ -70,12 +70,34 @@ In the final phase, the online banking system should be checked for any necessar
 
 The agile model is a combination of iterative and incremental process models. The steps involve in agile SDLC models are: 
 
-   Requirement gathering
-   Design the Requirements
-   Construction / Iteration
-   Testing / Quality Assurance
-   Deployment
-   Feedback
+    * Requirement gathering
+    * Design the requirements
+    * construction / iteration
+    * testing / quality assurance
+        - unit testing  - tested module by module
+        - integration testing - testing after integrating each module
+        - system testing - system meets the requirements of user
+    * deployment
+    * feedback
+    
 ![image](https://github.com/user-attachments/assets/2a29dced-fdd8-4c71-b8ba-0d303793ea49)
 
+### Principles of Agile Model
 
+* establish close contact with customer during development
+* frquent delivery of incremental versions of software to the customer respective in intervals of a few weeks
+* Requirements changes requests from customers are encouraged and efficiently incorporated
+* emphasis having efficient team members
+* recommended to keep the team size small like (5 to 9) encourages colloboration and environment
+* usually deploys ** Pair Programming ** one does coding and the other reviews the coding
+* relies on software developement rather than comprehensive documentation
+
+### Characteristics of agile process
+
+* adaptable to technical and environmental changes  , means if any changes occurs , agile process must accomodate them
+* must be incremental , which means each development the increment should contain some functionalities .
+* customer feedback must be used to create next increment of process
+* software increment must be delivered in ahort span of time
+* must be iterative , so that each increment can be evaluated regularly
+
+  
