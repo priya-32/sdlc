@@ -189,3 +189,6 @@ Some of are listed bellow:
 
    ![image](https://github.com/user-attachments/assets/8dacbd8c-2d45-40b2-8b16-ce207f0f9c64)
 
+
+Agile Vs WaterFall 
+![image](https://github.com/user-attachments/assets/c9addd9d-d4cd-4695-9009-543fa55e5698)
