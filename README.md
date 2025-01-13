@@ -103,8 +103,61 @@ The agile model is a combination of iterative and incremental process models. Th
 
 ### Scrum 
 
-yet to take notes
+  - a popular framework that is used whenever we want to develop complex products, Ken Schwaber and Jeff Sutherland are known as the people who developed Scrum.
+  - type of Agile framework
+  - teams use to self-organize tasks and work towards a common goal
+  - people can address common adaptive problems while the productivity and creativity of delivering products are at highest possible value .
+  - a management framework that team use to self-organize and work towards common goal .
+  - witerative and incremental approach used in scrum allows the teams to adapt the changing requirements .
 
+### Silent features of scrum
+
+- light-weight framework
+- emphasizes self-organization
+- simple to understand
+- helps team to work together
+
+  ###       LifeCycle Of Scrum
+  
+   ![image](https://github.com/user-attachments/assets/d7331f53-f3e4-4baf-94e7-7bb863f972a3)
+
+1 ) Sprint
+    - fixed length iteration , a set of tasks must be completed .
+    - iterative development and continuous improvement
+    - each sprint lasts from 1 to 4 weeks ( begins with planning , includes daily stand up meetings for progress updates , and endss with a review)
+    - time box of 1 month or less
+    - new sprint starts immediately after completion of previous sprint .
+
+2 ) Sprint review
+    - if product still have some ``` non-achievable features ``` , checked in this stage and then passed to sprint retrospective stage
+
+3 ) Sprint Retrospective 
+    - key takeaway from sprint
+    - what things went well and what things didn't ?
+    - what problem were faced during sprint ?
+    - analyse merits and demerits faced during sprint
+    - usually lasts for 1-2 hrs
+    - quality or status of product wis checked
+    
+    ``` Product Backlog ``` : according to prioritization features the product is organized
+
+4 ) Sprint Backlog 
+    - all team will be agrees on the list , which decides what the tasks which , development team will finish the sprint 
+    - 2 parts
+      * product assigned features to sprint
+      * sprint planning meeting
+      
+  ``` Backlog ``` 
+      - a lis of tasks needs to do before product is ready
+      - PO makes this list and give it to SM and team
+      - it is made up of users stories , all about what features and requirements list will gave the client
+    ``` Daily Scrum ```
+      - lead by scrum master which collects every day for small meetings
+      - all they talk about what they have done ? , what are they currently working on ? any problem facing during the work
+      - meeting lasts for ``` 15 mins ``` and discussion revolve around all team members .
+      1) what i did yesterday
+      2) are there any problem i'm facing
+      3) what i will do today
 ### Sprint
 
 - a sprint is a short and fixed time frame during which a specific set of tasks are meant to be performed". 
@@ -186,6 +239,9 @@ Some of are listed bellow:
  * ScrumDo
  * Scrumwise
  * Vivify Scrum
+
+   
+<img width="262" alt="image" src="https://github.com/user-attachments/assets/55e604bf-82f7-455b-962a-559658fc06c4" />
 
 
    ![image](https://github.com/user-attachments/assets/8dacbd8c-2d45-40b2-8b16-ce207f0f9c64)
