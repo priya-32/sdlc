@@ -100,4 +100,92 @@ The agile model is a combination of iterative and incremental process models. Th
 * software increment must be delivered in ahort span of time
 * must be iterative , so that each increment can be evaluated regularly
 
+### Scrum 
+
+yet to take notes
+
+### Sprint
+
+- a sprint is a short and fixed time frame during which a specific set of tasks are meant to be performed". 
+- Sprint in Agile project management, is a fixed-length iteration where a defined set of tasks must be completed.
+- Agile development methodology focuses on Adaptive planning and change management.
+- It focuses on developing and deploying the working software quickly in an iterative manner.
+- This means that instead of developing the product entirely in one go, the product is made iteratively in multiple short and incremental cycles.
+- An Agile project will be broken down into a certain number of sprints, each sprint lasting for a fixed duration of time. Usually, each sprint runs for 2–4 weeks.
+- A Sprint Planning Meeting occurs before the start of every sprint.
+- That meeting defines what set of items could be developed and delivered in the upcoming sprint.
+- During every planning meeting, a ** Sprint Backlog ** is created that has a subset of items from the original Product
+- ** Backlog ** that the team aims to achieve and develop in the current sprint.
+
+![image](https://github.com/user-attachments/assets/3b7661fe-508a-4f6d-a0dc-023790300485)
+
+### Sprint Roles, Artifacts and Ceremonies
+
+- Sprint is just a process in the scrum framework
+- tasks is divided the workflow into small iterations
+- sprint team is no different from scrum team
+- scrum is responsible for carrying out sprint
+
+### a scrum sprint involves 3 roles.
+
+1) Product Owner (PO)
+   - PO is the face of organization
+   - responsible for all interaction and communication of stakeholders by ensuring the right balance among all
+   - PO is responsible for release management of the model
+   - he tends to whether the product needs to delivered in iteration or continuous delivery
+   - he guides which functionality has to be delivered first and which ones gives highest priority
+
+
+2) Scrum Master (SM)
+
+   - acts as a leader who guides the development team
+   - faciliates the set of development activities done by the team
+   - SM is responsible fo letting the person ooutside the team understand the scrum practices
+   - sm focuses on scrum principles and values and coaches the team memebers in every single sprint activity
+
+3) Development Team (DT)
+
+     - DT consists of software engineers  , UX developers , testers , quality asscurances engineers , architect and business analysts .
+     - professional members who have responsibility to get the development job done .
+     - they take sprint responsibilities and are responsible fro sprint estimation tasks .
   
+
+### Scrum Sprint Cycle
+
+  - activities mentioned above is termed as scrum sprint cycle .
+  - throughout the sprint effective colloboration and coordination on the sprint goals are crucila for success .
+    ![image](https://github.com/user-attachments/assets/c308c9f7-ec68-4c76-a0c6-1b83627c5316)
+    - Product development is not just achieved through 1 single sprint. The entire fully functioning Software product undergoes a set of several sprints. 
+
+
+### Sprint workflow and process
+
+1) Backlog
+  - a list of tasks need to do before the product is ready.
+  - The product owner makes this list, and after that they gives it to the scrum master and team.
+  - it is made up of user stories, all about what features and requirement list will gave the client.
+
+2) Sprint Planning
+  - team focus on to the top things which are needs in user 
+3) Sprint backlog
+4) Sprint
+5) Daily Scrum
+6) Outcome
+7) Sprint end
+
+
+### Scrum productivity tools
+Today, there are various tools which are available to help teams to follow the Scrum or sprint methodology in proper manner.
+
+Some of are listed bellow:
+  
+ * Jira
+ * nTask
+ * QuickScrum
+ * ScrumDo
+ * Scrumwise
+ * Vivify Scrum
+
+
+   ![image](https://github.com/user-attachments/assets/8dacbd8c-2d45-40b2-8b16-ce207f0f9c64)
+
