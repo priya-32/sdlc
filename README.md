@@ -76,6 +76,6 @@ The agile model is a combination of iterative and incremental process models. Th
    Testing / Quality Assurance
    Deployment
    Feedback
+![image](https://github.com/user-attachments/assets/2a29dced-fdd8-4c71-b8ba-0d303793ea49)
 
-https://media.geeksforgeeks.org/wp-content/uploads/20230728093121/j-768.webp
 
